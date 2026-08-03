@@ -1,31 +1,20 @@
 # nobody174
 
 ## About Me
-Hi there! 👋 I'm nobody174 *(not literally)*, a 44-year-old learning enthusiast currently on a journey to educate myself in coding.  
-I started out with Python through courses on Codecademy, and my current projects reflect my learning curve in this language.
+Hi there! 👋 I'm nobody174, a 44-year-old learning enthusiast on a journey to teach myself coding.
 
-Since I'm disabled and no longer able to work, coding has become my way of staying productive and mentally engaged.  
-It's been a fulfilling way to spend my time, and I'm constantly exploring new possibilities like automation, IoT, and more.
+I'm disabled and no longer able to work, so coding has become my way of staying productive and mentally engaged. It's turned into something I genuinely love — a reason to keep learning something new every day.
 
-Who knows what the future holds, but for now, I'm here for the love of learning!
+I started with Python through Codecademy, and picked up some JavaScript along the way. My projects trace that learning curve — small and simple at first, growing more ambitious as I go.
 
----
+🍽️ [Menu Planner](https://github.com/nobody174/Menu-Planner) — a full-stack meal planning app with authentication and meal history. Live at [menuplanner.no](https://menuplanner.no).
 
-## What I'm working on 🛠️
-- Python-based projects, starting small but growing in complexity as I learn.
-- Automation, IoT, and possibly game modding in the future.
-- Built a browser-based dungeon idle/clicker game from scratch using vanilla HTML, CSS and JavaScript — floor progression, equipment, heroes, achievements and sound effects, all in a single file"
+🎮 [Dungeon idle/clicker game](https://github.com/nobody174/Dungeon-clicker-9000) — built from scratch in vanilla HTML, CSS and JavaScript, with floor progression, equipment, heroes, achievements, and sound effects, all in a single file.
 
-## What I’ve learned so far 📚
-- Python basics through Codecademy.
-- Totally new to GitHub and figuring my way around – I get that this is the place to be! 😄
-- Still exploring new tools and frameworks to enhance my skills.
-- abit of JavaScript
+⛏️ [Minecraft mods](https://github.com/nobody174/Minecraft) — a small collection of NeoForge mods (Armor Aura, Boss Radar, Pet Evolution, Buddy Beast, GlowTools) plus a Bukkit plugin.
 
-## Fun facts about me:
-- I'm not just about code – I’m a long-time gamer, mostly into RPG and FPS games.
-- I'm married, have kids, and am always looking for ways to stay mentally sharp and active.
+Automation and IoT are next on my list to explore.
 
----
+Outside of code: long-time gamer (RPGs and FPS mostly), married with kids, always looking for ways to stay sharp.
 
-If you have ideas, inputs, or suggestions for my work, feel free to contact me! I'd love to learn from others. 😄
+Got ideas, feedback, or suggestions? I'd love to hear from you. 😄
